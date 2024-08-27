@@ -1,4 +1,4 @@
-package main.java.class1.b2884;
+package main.java.bronze.b2884;
 
 // 백준 2884 알람 시계
 

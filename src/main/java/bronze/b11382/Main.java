@@ -1,4 +1,4 @@
-package main.java.sprout.b11382;
+package main.java.bronze.b11382;
 
 import java.io.BufferedReader;
 import java.io.IOException;
